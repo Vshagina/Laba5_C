@@ -52,7 +52,6 @@ class Cat : Animal
     }
 }
 
-// Класс Horse, расширяющий Animal
 class Horse : Animal
 {
     public string color;
@@ -68,7 +67,6 @@ class Horse : Animal
     }
 }
 
-// Класс Ветеринар
 class Veterinarian
 {
     public void TreatAnimal(Animal animal)
